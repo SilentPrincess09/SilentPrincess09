@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love The ;egend of Zelda
+- ⚡ Fun fact: I love The Legend of Zelda
 
 <!---
 SilentPrincess09/SilentPrincess09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
